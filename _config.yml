@@ -1,0 +1,28 @@
+name: sonyasseeds.com
+favicon: null
+layout_spectrum: 0.6306726594921201
+typography_spectrum: 0.1727550553623587
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7406906203832477
+  lightness: 0.4367961222305894
+  saturation: 0.5392940971069038
+  rhythmicContrast: 0.5932014570571482
+purpose: []
